@@ -6,8 +6,6 @@ O objetivo foi desenvolver uma aplicação desktop em Python que simula um chatb
 
 ## 🖼️ Telas da Aplicação
 
-*(Instrução: Tire prints da sua aplicação rodando e substitua os caminhos abaixo. Você pode arrastar as imagens diretamente para a interface do GitHub para fazer o upload e obter o link.)*
-
 | Tela de Login (Tema Escuro) | Tela de Chat (Tema Claro) |
 | :---: | :---: |
 | ![Tela de Login](./print_login.png) | ![Tela de Chat](./print_chat.png) |
